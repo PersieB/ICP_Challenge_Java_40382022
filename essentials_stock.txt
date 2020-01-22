@@ -1,0 +1,12 @@
+< PRODUCT > < QUANTITY > < PRICE >
+< Omo > < 1 > < GHC3.0 >
+< Milo > < 3 > < GHC4.0 >
+< Mentos > < 3 > < GHC4.5 >
+< Sardine > < 4 > < GHC4.5 >
+< Soap > < 3 > < GHC2.0 >
+< Suede spray > < 3 > < GHC5.6 >
+< Alvaro > < 3 > < GHC3.5 >
+< Lipton > < 10 > < GHC3.0 >
+< Bread > < 65 > < GHC5.0 >
+< Meat Pie > < 30 > < GHC3.5 >
+
